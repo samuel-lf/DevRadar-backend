@@ -4,7 +4,7 @@ const routes = require('./routes.js');
 
 const app = express();
 
-mongoose.connect('mongodb+srv://samuel:leonel1234@cluster0-fmbdx.mongodb.net/week10?retryWrites=true&w=majority', {
+mongoose.connect('url_mongo_atlas', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
