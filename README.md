@@ -10,7 +10,7 @@ Pronto, seu servidor já está rodando na porta 3333
 
 ### Conexão com o banco
 
-Crie um cluster gratuitamente no (Mongo Atlas)[https://www.mongodb.com/cloud/atlas]
+Crie um cluster gratuitamente no [Mongo Atlas](https://www.mongodb.com/cloud/atlas)
 
 Após isso, adicione a url de conexão no arquivo index.js.
 
